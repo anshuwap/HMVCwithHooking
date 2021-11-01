@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-23 08:32:00 --> Severity: error --> Exception: Call to undefined function register_staff_capabilities() /home/binplusi/public_html/crm.binplus.in/modules/hrm/hrm.php 124
+ERROR - 2020-05-23 08:33:26 --> Severity: error --> Exception: Call to undefined function register_staff_capabilities() /home/binplusi/public_html/crm.binplus.in/modules/hrm/hrm.php 124
+ERROR - 2020-05-23 08:37:51 --> Severity: error --> Exception: Call to undefined function register_staff_capabilities() /home/binplusi/public_html/crm.binplus.in/modules/hrm/hrm.php 124
+ERROR - 2020-05-23 08:38:29 --> Severity: error --> Exception: Call to undefined function register_staff_capabilities() /home/binplusi/public_html/crm.binplus.in/modules/hrm/hrm.php 124
+ERROR - 2020-05-23 08:38:55 --> Could not find the language line "18-24"
+ERROR - 2020-05-23 08:38:55 --> Could not find the language line "25-29"
+ERROR - 2020-05-23 08:38:55 --> Could not find the language line "30-39"
+ERROR - 2020-05-23 08:38:55 --> Could not find the language line "40-60"
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
+ERROR - 2020-05-23 08:39:23 --> Could not find the language line ""
